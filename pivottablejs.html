@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>PivotTable.js</title>
+
+        <!-- external libs from cdnjs -->
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.css">
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+
+
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/pivot.min.css">
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/pivot.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/d3_renderers.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/c3_renderers.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pivottable/2.19.0/export_renderers.min.js"></script>
+
+        <style>
+            body {font-family: Verdana;}
+            .node {
+              border: solid 1px white;
+              font: 10px sans-serif;
+              line-height: 12px;
+              overflow: hidden;
+              position: absolute;
+              text-indent: 2px;
+            }
+            .c3-line, .c3-focused {stroke-width: 3px !important;}
+            .c3-bar {stroke: white !important; stroke-width: 1;}
+            .c3 text { font-size: 12px; color: grey;}
+            .tick line {stroke: white;}
+            .c3-axis path {stroke: grey;}
+            .c3-circle { opacity: 1 !important; }
+            .c3-xgrid-focus {visibility: hidden !important;}
+        </style>
+    </head>
+    <body>
+        <script type="text/javascript">
+            $(function(){
+                if(window.location != window.parent.location)
+                    $("<a>", {target:"_blank", href:""})
+                        .text("[pop out]").prependTo($("body"));
+
+                $("#output").pivotUI(
+                    $.csv.toArrays($("#output").text()),
+                    $.extend({
+                        renderers: $.extend(
+                            $.pivotUtilities.renderers,
+                            $.pivotUtilities.c3_renderers,
+                            $.pivotUtilities.d3_renderers,
+                            $.pivotUtilities.export_renderers
+                            ),
+                        hiddenAttributes: [""]
+                    }, {})
+                ).show();
+             });
+        </script>
+        <div id="output" style="display: none;">,Precios,Ubicaciones,Áreas,Dormitorios,Baños,Descripcion
+0,"$ 930,000","Casa en  Calle Los Libertadores, San Isidro, Perú",300m2,3,3,"A.T. : 300 m2, A.C. : 358 m2.
+Dos plantas, 23 años de antigüedad, vista a la calle, en muy buen estado.
+1 sala, comedor, ..."
+1,"$ 750,000","Casa en  Av. Andrés Aramburú, San Isidro, Perú",360m2,3,2,"A.T. : 360 m2, A.C. : 300 m2.
+Casa como terreno: Zonificación zc, dos plantas, 28 años de antigüedad, vista a la calle, en..."
+2,"$ 350,000","Casa en  Pasaje Santa Rosa 865 Chaclacayo, Los Pinos, Los Halcones, Chaclacayo, Perú",300m2,4,4,"A.T. : 300 m2, A.C. : 300 m2.
+Dos plantas, 13 años de antigüedad, vista a la calle, en muy buen estado.
+1 sala, comedor, ..."
+3,"$ 1,250,000","Casa en  La Planicie, La Molina, Perú","1,790m2",4,8,"Elegante y amplia residencia moderna, 13 años de construcción y sólo 7 de uso, como nueva. 
+Excelente iluminación natural..."
+4,"$ 387,188","Casa en  La Calera De La Merced, Surquillo, Perú",178m2,5,3,"SURQUILLO, LA CALERA DE LA MERCED
+VENTA DE CASA,  Bien ubicada, zona Urbana, céntrica y accesible.
+Características importantes..."
+5,"$ 250,000","Casa en  Punta Corrientes, Cerro Azul, Perú",220m2,4,5,"CASA DE PLAYA en CONDOMINIO PLAYA PUNTA CORRIENTES
+Playa PUNTA CORRIENTES km. 122.300 autopista Panamericana Sur
+
+Calle Las..."
+6,"$ 1,220,000","Casa en  La Planicie, La Molina, Perú","1,124m2",4,4,"En la zona más tranquila de La Planicie, primera  etapa, cerca del colegio Villa María. Zona exclusiva enrejada, La Laguna..."
+7,"$ 247,000","Casa en  Punta Corrientes, Cerro Azul, Perú",220m2,4,5,"Se vende casa en punta corrientes.
+Muy buena ubicación con vista hacia la playa"
+8,"$ 225,000","Casa en  Punta Corrientes, Cerro Azul, Perú",220m2,4,5,"CASA DE PLAYA en CONDOMINIO PLAYA PUNTA CORRIENTES
+Playa PUNTA CORRIENTES km. 122.300 autopista Panamericana Sur
+
+Calle Las..."
+9,"$ 2,100,000","Casa en  Rinconada Alta, La Molina, Perú","2,850m2",4,7,Amplia residencia en Rinconada Alta. 4 dormitorios y 7 baños. Dormitorio principal con salida a terraza y vista a los jardines...
+10,"$ 980,000","Casa en  Las Lagunas, La Molina, Perú",461m2,4,4,"Hermosa casa casi nueva, impecable en Las Lagunas. 4 dormitorios con aire acondicionado. Dormitorio principal con balcón,..."
+11,"$ 3,600,000","Casa en  La Planicie, 1a Etapa, 12, La Molina, Lima, Lima, Peru","3,694m2",5,5,Como terreno. Hermosa residencia en excelente ubicación de la 1a etapa de La Planicie. A precio de terreno. 5 dormitorios...
+12,"$ 2,100,000","Casa en  Rinconada Alta, La Molina, Perú","2,850m2",4,7,Amplia residencia en Rinconada Alta. 4 dormitorios y 7 baños. Dormitorio principal con salida a terraza.  Amplia sala comedor...
+13,"$ 1,700,000","Casa en  La Planicie, La Molina, Perú","1,508m2",5,8,"Bella residencia en La Planicie, primera etapa. Impecable, como nueva. En total 5 dormitorios con aire acondicionado. 2 dormitorios..."
+14,"$ 1,200,000","Casa en  La Molina, Lima","1,051m2",7,6,"Hermosa residencia en Residencial Monterrico (por Camacho). 700m2 techados. 3 dormitorios en el primer piso, uno con baño..."
+15,"$ 2,100,000","Casa en  Rinconada Alta, La Molina, Perú","2,304m2",5,6,"Hermosa residencia en Rinconada Alta. 5 amplios dormitorios con baño incorporado. Hall de ingreso, sala, comedor, comedor..."
+16,"$ 550,000","Casa en  Bahia, Pueblo Libre, Perú",295.55m2,4,2,"¡MÚDATE A PUEBLO LIBRE!
+En venta amplia y cómoda vivienda de 3 pisos en Pueblo Libre, con fácil acceso a avenidas principales..."
+17,"$ 850,000","Casa en  San Borja, Lima",429.54m2,5,3,"Vendo linda casa en esquina de 429.54m2 de terreno, en calle Andreas Vesalio, San Borja, muy bien ubicada.
+La casa tiene ..."
+18,"$ 112,000","Casa en  Unidad Vecinal Del Rimac, Lima, Perú",48m2,4,2,"VENDO CASA EN LA UNIDAD VECINAL DEL RIMAC, UBICADA FRENTE A PLAZA VEA DE LA AV. ALCAZAR, MUY CENTRICA. 
+LA CASA TIENE 3 PISOS..."
+19,"$ 52,844.04
+                
+                    destacado","Casa en  Villa Club 2, Carabayllo, Perú",76.24m2,3,2,"HERMOSA CASA EN VENTA, área de terreno de 76.25 m² con excelente distribución e iluminación, seguridad las 24 horas del día..."
+20,"$ 44,714.19
+                
+                    destacado","Casa en  Alameda De San Juan, Carabayllo, Perú",56.14m2,2,1,"Hermosa Casa en Venta
+CASA DE DOS PISOS, EN VENTA UBICADO EN EL EXTERIOR DE UN CONDOMINIO 28.07m² construido aproximadamente..."
+21,"$ 340,000","Casa en  Avenida Metropolitana & Avenida Prolongación Javier Prado Este, Ate, Perú",156m2,5,5,"Venta de Casa. ZONA CERRADA SEGURA VIGILANCIA PRIVADA FRENTE A PARQUE
+Casa de 4 pisos ubicada en Calle Las Limas URB. CERES..."
+22,"$ 51,489.06
+                
+                    destacado","Casa en  San Pedro, Carabayllo, Perú",90m2,4,2,"CASA DE TRES PISOS, EN VENTA UBICADO EN EL EXTERIOR DE UN CONDOMINIO 90m² construido aproximadamente, con excelente distribución..."
+23,"(Precio a consultar)
+                
+                    destacado","Casa en  Playa Las Totoritas, Cañete, Lima, Perú",250m2,4,5,"Se vende casa de playa en La Macarena - Totoritas
+la casa consta de dos pisos bien distribuidos.
+Primer piso:
+Linda entrada..."
+24,"(Precio a consultar)
+                
+                    destacado","Casa en  Mala, Cañete",200m2,7,7,"Se Vende Casa en Playa Las Totoritas
+La casa se encuentra unicada  en la Calle 4 a media cuadra del malecón.
+Consta de dos..."
+25,"$ 390,000
+                
+                    destacado","Casa en  Jirón Aragón 178, Pueblo Libre, Perú",223m2,5,3,"En venta casa de tres pisos con un área de terreno de 223 m2 con una privilegiada ubicación, perfecta oportunidad para constructoras..."
+26,"$ 560,000
+                
+                    destacado","Casa en  Carlos Monge Medrano, Santiago De Surco, Perú",280m2,3,4,"A.T. : 280 m2, A.C. : 280 m2.
+2 pisos.
+Aire acondicionado, tres plantas, 45 años de antigüedad, vista a parque, en muy buen..."
+27,"$ 405,000","Casa en  San Borja, Lima",178m2,4,2,"VENTA CASA SAN BORJA
+Ubicadísima, acogedora, segura e iluminada !!  - Fácil acceso a transporte.
+Venta de casa de 2 Pisos..."
+28,"$ 1,047,000","Casa en  Rinconada Baja, Lima","1,108m2",3,4,"UBICADISIMA CASA EN EL CORAZON DE LA ESTANCIA LA MOLINA !!
+
+Seguridad 24 horas. Cámaras en todas la urbanizacion.  Garitas..."
+29,"$ 750,000","Casa en  Alameda Manuel Prado Ugarteche 400-478, Cuadra 4, Ot. Universidad Nacional Agraria, La Molina, Lima, 15024, Per",492m2,4,3,"PRECIOSA CASA MINIMALISTA. CONDOMINIO PORTADA DEL HARAS, FINOS ACABADOS, TECHOS ALTOS EXCELENTE DISTRIBUCIÓN. FULL SEGURIDAD..."
+</div>
+    </body>
+</html>

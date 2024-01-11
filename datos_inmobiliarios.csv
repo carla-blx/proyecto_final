@@ -1,457 +1,181 @@
-Precio,Ubicacion,Área,Dormitorios,Baños,Descripcion
-112000.0,"Unidad Vecinal Del Rimac, Lima, Perú",48m2,4,2,"VENDO CASA EN LA UNIDAD VECINAL DEL RIMAC, UBICADA FRENTE A PLAZA VEA DE LA AV. ALCAZAR, MUY CENTRICA. 
-LA CASA TIENE 3 PISOS..."
-,"Villa Club 2, Carabayllo, Perú",76.24m2,3,2,"HERMOSA CASA EN VENTA, área de terreno de 76.25 m² con excelente distribución e iluminación, seguridad las 24 horas del día..."
-,"Alameda De San Juan, Carabayllo, Perú",56.14m2,2,1,"Hermosa Casa en Venta
-CASA DE DOS PISOS, EN VENTA UBICADO EN EL EXTERIOR DE UN CONDOMINIO 28.07m² construido aproximadamente..."
-,"San Pedro, Carabayllo, Perú",90m2,4,2,"CASA DE TRES PISOS, EN VENTA UBICADO EN EL EXTERIOR DE UN CONDOMINIO 90m² construido aproximadamente, con excelente distribución..."
-,"Playa Las Totoritas, Cañete, Lima, Perú",250m2,4,5,"Se vende casa de playa en La Macarena - Totoritas
-la casa consta de dos pisos bien distribuidos.
-Primer piso:
-Linda entrada..."
-,"Mala, Cañete",200m2,7,7,"Se Vende Casa en Playa Las Totoritas
-La casa se encuentra unicada  en la Calle 4 a media cuadra del malecón.
-Consta de dos..."
-387188.0,"La Calera De La Merced, Surquillo, Perú",178m2,5,3,"SURQUILLO, LA CALERA DE LA MERCED
-VENTA DE CASA,  Bien ubicada, zona Urbana, céntrica y accesible.
-Características importantes..."
-250000.0,"Punta Corrientes, Cerro Azul, Perú",220m2,4,5,"CASA DE PLAYA en CONDOMINIO PLAYA PUNTA CORRIENTES
-Playa PUNTA CORRIENTES km. 122.300 autopista Panamericana Sur
-
-Calle Las..."
-340000.0,"Avenida Metropolitana & Avenida Prolongación Javier Prado Este, Ate, Perú",156m2,5,5,"Venta de Casa. ZONA CERRADA SEGURA VIGILANCIA PRIVADA FRENTE A PARQUE
-Casa de 4 pisos ubicada en Calle Las Limas URB. CERES..."
-247000.0,"Punta Corrientes, Cerro Azul, Perú",220m2,4,5,"Se vende casa en punta corrientes.
-Muy buena ubicación con vista hacia la playa"
-225000.0,"Punta Corrientes, Cerro Azul, Perú",220m2,4,5,"CASA DE PLAYA en CONDOMINIO PLAYA PUNTA CORRIENTES
-Playa PUNTA CORRIENTES km. 122.300 autopista Panamericana Sur
-
-Calle Las..."
-550000.0,"Bahia, Pueblo Libre, Perú",295.55m2,4,2,"¡MÚDATE A PUEBLO LIBRE!
-En venta amplia y cómoda vivienda de 3 pisos en Pueblo Libre, con fácil acceso a avenidas principales..."
-850000.0,"San Borja, Lima",429.54m2,5,3,"Vendo linda casa en esquina de 429.54m2 de terreno, en calle Andreas Vesalio, San Borja, muy bien ubicada.
-La casa tiene ..."
-1250000.0,"La Planicie, La Molina, Perú","1,790m2",4,8,"Elegante y amplia residencia moderna, 13 años de construcción y sólo 7 de uso, como nueva. 
-Excelente iluminación natural..."
-1220000.0,"La Planicie, La Molina, Perú","1,124m2",4,4,"En la zona más tranquila de La Planicie, primera  etapa, cerca del colegio Villa María. Zona exclusiva enrejada, La Laguna..."
-2100000.0,"Rinconada Alta, La Molina, Perú","2,850m2",4,7,Amplia residencia en Rinconada Alta. 4 dormitorios y 7 baños. Dormitorio principal con salida a terraza y vista a los jardines...
-980000.0,"Las Lagunas, La Molina, Perú",461m2,4,4,"Hermosa casa casi nueva, impecable en Las Lagunas. 4 dormitorios con aire acondicionado. Dormitorio principal con balcón,..."
-3600000.0,"La Planicie, 1a Etapa, 12, La Molina, Lima, Lima, Peru","3,694m2",5,5,Como terreno. Hermosa residencia en excelente ubicación de la 1a etapa de La Planicie. A precio de terreno. 5 dormitorios...
-2100000.0,"Rinconada Alta, La Molina, Perú","2,850m2",4,7,Amplia residencia en Rinconada Alta. 4 dormitorios y 7 baños. Dormitorio principal con salida a terraza.  Amplia sala comedor...
-1700000.0,"La Planicie, La Molina, Perú","1,508m2",5,8,"Bella residencia en La Planicie, primera etapa. Impecable, como nueva. En total 5 dormitorios con aire acondicionado. 2 dormitorios..."
-1200000.0,"La Molina, Lima","1,051m2",7,6,"Hermosa residencia en Residencial Monterrico (por Camacho). 700m2 techados. 3 dormitorios en el primer piso, uno con baño..."
-2100000.0,"Rinconada Alta, La Molina, Perú","2,304m2",5,6,"Hermosa residencia en Rinconada Alta. 5 amplios dormitorios con baño incorporado. Hall de ingreso, sala, comedor, comedor..."
-,"Jirón Aragón 178, Pueblo Libre, Perú",223m2,5,3,"En venta casa de tres pisos con un área de terreno de 223 m2 con una privilegiada ubicación, perfecta oportunidad para constructoras..."
-425000.0,"Urb Paso Chico, Paseo Paso Chico, Lurín, Perú","1,150m2",7,7,"OCASIÓN PRECIOSA CASA!! VENDO CASA EN EXCLUSIVA URB. PASO CHICO  EN LURIN DE 1150m2 en US$ 425,000 dólares.
-
- UBICADA EN ..."
-439000.0,"Jirón Eduardo Lizarzaburu, San Borja, Perú",212m2,6,3,"🏡 𝗛𝗲𝗿𝗺𝗼𝘀𝗮 𝗖𝗮𝘀𝗮 de 212m2 de 3 pisos 𝗳𝗿𝗲𝗻𝘁𝗲 𝗽𝗮𝗿𝗾𝘂𝗲 en San Borja en US$439, 000 dólares
-
-🎯𝗖𝗮𝗹𝗹𝗲..."
-,"Jirón Paseo De Los Eucaliptos 460, La Molina, Perú","1,289m2",5,3,"Amplia casa de 1,289m2 en Camacho - La Molina 
-Calle Paseo Los Eucaliptos Nro 460, Urb. Camacho 
-Alt. Cuadra 3 y 4 de la ..."
-370000.0,"Monte Álamo 255, Surco, Perú",200m2,4,3,"Bonita Casa de 201m2 en Surco Venta US$370,000 Alquiler US$1,500 5 dormitorios y 4 baños amplía, iluminada y muy bien ubicada..."
-,"Santiago De Surco, Lima",400m2,5,5,"Hermosa casa, totalmente remodelada! 
-La casa tiene 03 pisos con un amplio jardín y terraza. 
-Excelente ubicación!!! 
-A dos..."
-97000.0,"Santa María, Huaura, Lima, Per",136m2,3,2,"Se Vende Hermosa Casa de Dos Pisos en Condominio Privado - Santa María 
-Condominio/Resort Las Arboledas de Santa María - ..."
-,"Rinconada Baja, Lima",300m2,4,5,"LINDA CASA EN VENTA! A UN PASO DEL CENTRO COMERCIAL MOLINA PLAZA 
-AT. 300M2 AC. 268M2 
-PRECIO $658,000 NEGOCIABLE!! 
-
-Casa..."
-940000.0,"Cerros De Camacho, Santiago De Surco, Lima, Lima, Peru",563m2,5,6,"Sala, Comedor, Comedor de diario, Cocina, Escritorio, Sala de estar, 5 Dormitorios, 6.5 Baños, 4 Baños incorporados, Cuarto..."
-790000.0,"La Molina, Lima",461m2,4,4,"Vendo hermosa  casa en Las Lagunas de  La Molina
-
-AT. 461m2 Y AC. 312m2
-
-PRECIO $790,000.
-
-La casa se encuentra en una zona..."
-,"Santa Cruz De Flores, Cañete, Lima, Per",679m2,4,4,"VENDO CASA DE CAMPO AMOBLADA CON PISCINA EN AZPITIA. 
-Mudate Yaaaaa
-Ref. La Casa de la Cremolada y Av. Buenaventura, Restaurant..."
-,"Carlos Monge Medrano, Santiago De Surco, Perú",280m2,3,4,"A.T. : 280 m2, A.C. : 280 m2.
-2 pisos.
-Aire acondicionado, tres plantas, 45 años de antigüedad, vista a parque, en muy buen..."
-490000.0,"Daniel Urrea 251, Chorrillos, Lima 15063, Perú",240m2,4,3,"CASA EN CHORRILLOS
-Calle Daniel Urrea 251
-Excelente ubicación a media cuadra del malecón Costa Sur
-Se vende casa como terreno..."
-,"Ricardo Angulo, San Isidro, Lima, Lima, Peru",360m2,3,3,"OCASIÒN Casa con paràmetros para 7 pisos a precio de terreno
-Sala, comedor, cocina, 3 dormitorios, 3.5 baños, pisicina, escritorio..."
-,"Calle Bahía 200-298, Cuadra 2, Co. La Molina Real, La Molina, Lima, 15026, Per",300m2,4,5,"VENTA DE MODERNA CASA EN LA MOLINA PERFECTA PARA TU HERMOSA FAMILIA
-
-300 metros cuadrados de área total.
-307 metros cuadrados..."
-,"Lomas De La Molina Vieja, Lima, Perú",280m2,4,6,"Venta de Moderna casa puerta a calle en Estreno
-área techada 280 metros
-1er piso :
-2 estacionamientos,
-piscina
-area de parrilla..."
-1000000.0,"Calle Baltazar La Torre 3, San Isidro, Perú",365.2m2,5,4,"Casa en venta en San Isidro
-Ubicación: Calle Baltazar La Torre Nro 392 – 394 -396, Urb. Orrantia – San Isidro
-A.T 365.20M2..."
-680000.0,"Jirón Coronel Enrique Campos, Surco, Perú",300m2,3,4,"Vendo linda casa frente a parque en Urb Las Gardenias, Surco
-A 2 cuadras de Velasco y Caminos del Inca
-AT:300m2     AC: 320m2..."
-405000.0,"San Borja, Lima",178m2,4,2,"VENTA CASA SAN BORJA
-Ubicadísima, acogedora, segura e iluminada !!  - Fácil acceso a transporte.
-Venta de casa de 2 Pisos..."
-1047000.0,"Rinconada Baja, Lima","1,108m2",3,4,"UBICADISIMA CASA EN EL CORAZON DE LA ESTANCIA LA MOLINA !!
-
-Seguridad 24 horas. Cámaras en todas la urbanizacion.  Garitas..."
-750000.0,"Alameda Manuel Prado Ugarteche 400-478, Cuadra 4, Ot. Universidad Nacional Agraria, La Molina, Lima, 15024, Per",492m2,4,3,"PRECIOSA CASA MINIMALISTA. CONDOMINIO PORTADA DEL HARAS, FINOS ACABADOS, TECHOS ALTOS EXCELENTE DISTRIBUCIÓN. FULL SEGURIDAD..."
-695000.0,"Rio De Janeiro 200, La Molina, Perú",340m2,3,5,"INDA CASA EN CONDOMINIO El Sol de La Molina 340m2 con excelente ubicación, dos plantas. 
-Primer Piso: Sala y comedor con ..."
-750000.0,"La Molina, Lima",160m2,3,4,"!!OCASIÓN!! CASA EN ESQUINA A MEDIA CUADRA DEL PARQUE
-Cerca a Universidades, restaurantes, colegios etc.
-
-PRECIO $750,000..."
-,"Alberto Bartón, Santa Catalina, Lima, Perú",679m2,4,3,"Calle ALBERTO BARTÓN, Urb. SANTA CATALINA
-
-Zonificación Comercial
-A.O. : 160 m2, A.C. : 160 m2.
-Piso 1.
-Zonificación comercial..."
-253900.0,"Santa Cruz De Flores, Cañete, Lima, Per",360m2,4,4,"VENDO CASA DE CAMPO AMOBLADA CON PISCINA EN AZPITIA. 
-Mudate Yaaaaa
-Ref. La Casa de la Cremolada y Av. Buenaventura, Restaurant..."
-,"Calle Neiser Llacsa Arce, Lima, Perú",202m2,3,3,"A.T. : 360 m2, A.C. : 230 m2.
-Flat, 23 años de antigüedad, vista a la calle, en buen estado.
-Sin muebles, hall, 1 sala, comedor..."
-410000.0,"Calle Campo Verde 101-199, Cuadra 1, Ur. Campo Verde, La Molina, Lima, 15026, Per",600m2,3,4,"Linda casa en condominio en una zona muy segura. Ingreso bastante amplios e iluminados, muy buena distribución, finos acabados..."
-720000.0,"Calle Las Dalias 338-368, Cuadra 3, Ur. Valle Hermoso Residencial Etapa Ii, Santiago De Surco, Lima, 15023, Per",240m2,3,4,"Ubicado: Jr. Las Dalias.
-Cerca: Universidad Ricardo Palma, Instituto CAPECO,  colegio La Inmaculada Jesuitas.
-
- AT. 598mt2..."
-330000.0,"Pando, Lima",258m2,3,2,"OCASION!!! Casa ubicada en esquina, amplios ambientes: sala, comedor, cocina, baño de visita, cochera para un carro que podría..."
-435000.0,"Pando, Lima",290m2,5,3,"Ideal inmueble para remodelar y vivir una gran familia, proyecto inmobiliario y/o comercio, ubicación es excelente pues esta..."
-600000.0,"Jirón El Mástil 515-577, Cuadra 5, Ur. Las Lagunas De La Molina Etapa Iii, La Molina, Lima, 15026, Per",316m2,5,7,"Impresionante y Hermosa casa independiente en venta en el distrito de la  Molina 
-
-i Ubicada cerca a laguna Grande y Av la..."
-615000.0,"José María Quiroga 339, Santiago De Surco, Perú","1,180m2",4,3,"Magnifica casa, excelente distribución, zona segura y de fácil acceso a avenidas y centros comerciales.
-
-Primer Nivel:
-Jardín..."
-,"El Sol De La Molina, Lima",595m2,3,3,"¡Impecable! Linda casa con excelente distribución y acabados, espacios amplios e iluminados. El terreno es de 1180 m2 y está..."
-799000.0,"Valle Hermoso, Santiago De Surco, Perú","1,500m2",4,4,"Vendo Casa en Ca. Jacaranda Frente a Parque. Excelente Oportunidad - Ver Cabida
-EXCELENTE Casa en venta como terreno 596m2..."
-500000.0,"Urb California, Perú",480m2,5,3,"Vendo bella casa de campo de 1500 mt2, ubicada en Segunda Transversal 150, Urbanización California, Chosica. Esta hermosa..."
-800000.0,"Avenida San Borja Norte 1234, Lima, Perú",600m2,4,3,"CASA CON MUCHO CARACTER, TOTALMENTE REMODELADA TECHO A DOS AGUAS.
-PRIMERA PLANTA PISO CON PORCELANTO CON DESNIVELES ESTA ..."
-890000.0,"El Haras 5, La Molina, Perú",481m2,4,4,"LINDA CASA EN CONDOMINIO PORTADA DEL HARAS 600m2 con excelente ubicación, dos plantas.
-
-Primer Piso: Hall, doble sala (1 ..."
-850000.0,"Calle General Silva 685, Cuadra 6, Ur. San Antonio, Miraflores, Lima, 15047, Per",NA,6,3,"Importante casa en venta, es muy iluminada, ventilada y todos los espacios son muy buenos. Cuenta con 2 pisos, escalera principal..."
-,"Avenida Las Casuarinas, Santiago De Surco, Perú",342m2,3,3,"Venta de linda casa en calle cerrada con vigilancia en Surco
-Área 342m2
-Casa amplia con jardín delantero y posterior de un..."
-1480000.0,"Avenida Juan De Aliaga 400, Magdalena Del Mar, Perú",423m2,3,2,"¡¡Venta de terreno en Magdalena, con mucho potencial para constructores!! A unos pasos del Ministerio del Ambiente. Con acceso..."
-,"Calle Pastor Sevilla, Chorrillos, Perú",281m2,5,6,"Si estas pensando comprar un departamento esta casa podría ser una mejor opción:
-
-Esta impresionante propiedad en venta es..."
-,"Las Caobas, La Molina, Perú",332m2,4,5,"Se vende bonita casa , muy bien distribuida, ambientes amplios y mucha luminosidad.
-Casa bien mantenida con un área de terreno..."
-399500.0,"La Floristería, Jirón Simón Salguero, Ur. Residencial El Rosal, Santiago De Surco, Lima, 15048, Per",202m2,4,3,"La casa tiene 36 años de antigüedad, tiene 202m cuadrados de área de terreno y 280m cuadros construídos.
-1er piso: 2 salas..."
-475000.0,"Av. Rinconada Del Lago 915, La Molina, Perú",398m2,3,2,"linda casa con techos de doble altura super bien conservada en segunda etapa rinconada del lago.
-ingreso con pequeña pileta..."
-540000.0,"Viña Del Mar 131, Perú",592m2,4,3,"linda casa de dos pisos
-primer piso
-pisos de madera 
-sala comedor ,escritorio,sala de estar baño de visitas ,cocina comedor..."
-,"La Molina, Lima","1,064m2",3,5,🏡 ¡Oportunidad única en Urb. CAMACHO La Molina! Venta de una espaciosa casa de 1062 m2 de terreno y 712 m2 de construcción...
-,"Calle Castilla La Vieja, Surco, Perú",271m2,4,3,"Se vende buena casa, bien distribuida con ambientes amplios y mucha luminosidad
-270.9  m2 Área Terreno 
-268.50 m2 Área Construída..."
-590000.0,"Cercado De Lima, Lima","380,000m2",4,4,"Se vende hermosa casa minimalista en Santiago de Surco, frente a parque totalmente remodelada en el 2018 con un área de 400..."
-645000.0,"Maranga, San Miguel, Perú",240m2,8,4,"Venta de casa CZ cerca a Plaza San Miguel.
-
-Cerca a plaza San Miguel, Hiraoka, restaurantes, Colegio Claretiano, fácil acceso..."
-420000.0,"Calle German Schreiber, Avenida Dos De Mayo, San Isidro, Perú",269m2,3,2,"casa de un solo piso
-puerta a la calle 
-269m2
-sala comedor cocina 3 dormitorios
-amplia para remodelar puede acomodarse a ..."
-260000.0,"Calle German Schreiber Gulsmanco 210, Calle German Schreiber Gulsmanco, San Isidro, Perú",140m2,3,2,"casa en primer piso por remodelar 
-instalaciones de agua luz telefono
-puerta a la calle 
-posibilidad licencia comercial o..."
-549000.0,"Jirón Cayaltí 241-279, Cuadra 2, Ur. Centro Comercial De Monterrico, Santiago De Surco, Lima, 15023, Per",409m2,5,5,"EN VENTA:
-Inmueble de 3 pisos (2014), con ambientes bien iluminados y finos acabados. cuenta con 5 dormitorios, 1 escritorio..."
-1260000.0,"Mala, Cañete, Lima, Per","70,000m2",1,1,"Vendo de ocasión excelente terreno agrícola con plantaciones de uva borgoña 5 Has y palta Hass 2.5 has, con optima producción..."
-520000.0,"Juan De La Fuente 905, Lima, Perú",303m2,7,5,"¡Gran oportunidad! Venta de una casa ubicada en Juan de la Fuente 905 Urb. San Antonio, Miraflores. Con un área de terreno..."
-465000.0,"Calle Pulla De Raymondi, Lima, Perú",312m2,4,3,"Venta de casa frente a parque en condominio privado ubicado en Monterrico, Surco.
-Casa de dos pisos.
-4 dormitorios
-3 baños..."
-360000.0,"La Encantada 130, Rinconada Del Lago, La Molina, Perú",253m2,3,4,"CASA EN CONDOMINIO - RINCONADA DEL LAGO II - LA MOLINA
-
-HERMOSA VIVIENDA SEMI AMOBLADA, DE 3 DORMITORIOS EN CONDOMINIO DE..."
-675000.0,"Las Fresas, Lima 15048, Perú",360m2,5,5,"Venta hermosa Casa en exclusiva zona de Miraflores, con amplio Jardín y terraza. De 5 Dormitorios, 1 en el 1er piso  4 en..."
-590000.0,"Avenida Paseo La Castellana 356, Santiago De Surco, Perú",327m2,4,5,"Venta Casa con hermosa terraza y jardín y excelente ubicación en Paseo La Castellana, a unas pocas cuadras del centro comercial..."
-950000.0,"Pucusana, Perú","30,000m2",4,6,"CASA DE CAMPO / TERRENO  3 HECTÁREA, EN EL DISTRITO DE PUCUSANA con áreas sembradas de olivo cuenta con dos pozos agua dulce..."
-1200000.0,"La Molina Vieja, La Molina, Perú","1,125m2",3,2,"Agente: Milagros Garibaldi Cel: 961*355*201 - VENDO PRECIOSA CASA EN LA MOLINA VIEJA - 1,125 MT. - 4 DORMITORIOS - 7 COCHERAS..."
-1270000.0,"Orrantia, Lima",345m2,4,4,"Casa espectacular, muy fina. Lindos acabados.
-Arquitecto Emilio Soyer.
-AT: 345m2   AC: 400m2
-Todos los ambientes muy iluminados..."
-350000.0,"Pasaje Santa Rosa 865 Chaclacayo, Los Pinos, Los Halcones, Chaclacayo, Perú",300m2,5,3,"A.T. : 300 m2, A.C. : 300 m2.
-Dos plantas, 13 años de antigüedad, vista a la calle, en muy buen estado.
-1 sala, comedor, ..."
-1050000.0,"Orrantia, Lima",378m2,7,5,"La casa está muy bien ubicada cerca a la Av. Pezet y del Golf. Casa en esquina con muy buena luz y ventilación.
-Venta: $1'050,000..."
-2500000.0,"Av. Pedro De Osma 417, Barranco, Perú",847m2,3,3,"Esta casona republicana de 1900 totalmente restaurada en 2017 y en impecable
-estado de conservación cuenta con un área construida..."
-475000.0,"Chorrillos, Lima",300m2,3,3,"Precio negociable
-HERMOSA CASA EN LAS BRISAS DE VILLA
-
-UBICACIÓN: Alameda Costa Norte – Las Brisas de Villa Chorrillos
-Área..."
-825000.0,"Sevilla 115, Miraflores, Perú",267m2,8,8,"Vendo casa de dos pisos en excelente ubicación en el distrito de Miraflores, cerca a avenidas, centros comerciales, colegios..."
-1820000.0,"Pachacamac, Lima","4,333m2",3,3,"Hermosa casa de campo,ubicada a 45 minutos de Lima, cercada con paredes de ladrillo para su seguridad, rodeada de jardines..."
-930000.0,"Calle Los Libertadores, San Isidro, Perú",300m2,,,"A.T. : 300 m2, A.C. : 358 m2.
-Dos plantas, 23 años de antigüedad, vista a la calle, en muy buen estado.
-1 sala, comedor, ..."
-540000.0,"Ivan Huerta, Cercado De Lima, Perú",200m2,4,5,"Casa · 200m² · 4 Dormitorios · 2 Estacionamientos
-
-Venta de hermosa casa  con finos acabados en Urbanización 
-Prolongación..."
-320000.0,"Magdalena Del Mar, Lima",70m2,3,2,"HERMOSO TOWN HOUSE DE CUATRO PISOS CON DIEZ AÑO DE ANTIGÜEDAD PERO EN EXCELENTES CONDICIONES, 3 DORMITORIOS, EL DORMITORIO..."
-750000.0,"Av. Andrés Aramburú, San Isidro, Perú",360m2,3,2,"A.T. : 360 m2, A.C. : 300 m2.
-Casa como terreno: Zonificación zc, dos plantas, 28 años de antigüedad, vista a la calle, en..."
-190000.0,"Surquillo, Lima",110m2,3,1,Se vende dúplex. Ocasión. Misma Avenida Tomás Marsano con Roca y Bologna. Condomio seguro. El departamento cuenta en la primera...
-690000.0,"Jirón Madreselva, Surco, Perú",415m2,4,4,"Buena casa con frente 13.74, se encuentra en buen estado ubicado en condominio. El predio consta de dos plantas y se hicieron..."
-2000000.0,"Jirón Los Molles 267, Santiago De Surco, Perú","1,204m2",5,10,"Queda en la mitad del cerro San Francisco
-Es una de las calles más planas de Casuarinas Alta"
-1290000.0,"Av. Belén, San Isidro, Perú",498m2,5,4,casa como terreno en venta para proyecto
-618000.0,"Chorrillos, Lima","1,132m2",3,3,Linda casa por remodelar con jardín al ingreso y gran jardín posterior con terraza
-215000.0,"Cloegio Pamer, Avenida Los Alameda Horizontes 710, Cuadra 7, Ur. Los Cedros De Villa Etapa Iv, Chorrillos, Lima, 15067, Per",236m2,5,4,"¿Necesitas más espacio?
-Entonces tiene esta excelente oportunidad, casa en venta, 2 pisos mas azotea. Ubicada en cuadra 7..."
-,"Santiago De Surco, Lima",292m2,5,5,SANTIAGO DE SURCO SE VENDE HERMOSA CASA CODIGO  K-1379 /  TRES PLANTAS / 2 COCHERAS / 2 ESTACIONAMIENTOS / 5 DORMITORIOS ...
-,"Jirón Los Alamos 183, Lima, Perú",376m2,4,4,"NO ES UNA CASA SOLO PARA SOÑAR - ES UNA CASA QUE MERECE HACERLA REALIDAD 
-Todas las cualidades que combinan lujo, practicalidad..."
-,"Calle General La Fuente 165, San Isidro, Perú",391m2,3,4,"Casa de tres pisos, de diseño clásico, muy bien conservada, situada dentro de un condominio exclusivo de solo 6 casas, totalmente..."
-915000.0,"Avenida Manuel Prado Ugarteche, La Molina, Perú",540m2,4,5,"LINDA CASA, MODERNA, ILUMINADA, ACABADOS DE PRIMERA, CONDOMINIO SÚPER TRANQUILO Y MODERNO DE 19 LOTES.
-
-CUENTA CON 3 DORMITORIOS..."
-,"Jirón Maximiliano Carranza 856-898, Cuadra 8, Ur. San Juan Sector D, San Juan De Miraflores, Lima, 15801, Per",225m2,6,2,"Casa de 02 Pisos + AZOTEA  Frente a Parque Los Héroes - Zona D - San Juan de Miraflores
-UBICACIÓN: CALLE MAXIMILIANO CARRANZA..."
-399000.0,"Rinconada Baja, Lima",160m2,5,6,"EN LAS LOMAS DE LA MOLINA VIEJA, SE VENDE UNA HERMOSA CASA A ESTRENAR CÓDIGO KCV-1495 / 3 PÌSOS / 5 DORMITORIOS CON CLOSET..."
-240000.0,"San Martin De Porres, Lima",111.67m2,4,2,"Área                  : 111.67m
-Ac                     : 149.28m
-Frente               : 5.20
-Zonificación     : C Z
-Dormitorios..."
-2500000.0,"Los Canarios, La Pradera, Lima, Perú","1,341m2",4,4,"VENDO LINDA CASA, UNA SOLA PLANTA, MUY BUENA DISTRIBUCIÓN, CUENTA CON LO SIGUIENTE:
-- HABITACION AMPLIA PARA ESCRITORIO
--..."
-440000.0,"Alameda El Triangulo, Urb Las Brisas De Villa, Lima, Perú",600m2,4,5,"Bellísima casa en venta en la exclusiva zona de la Urb. Brisas de Villa, Alameda El Triángulo, Chorrillos. 
-
-Hall, amplísima..."
-,"Surco, Perú",500m2,8,3,"CONTACTO: JORGE BENITES // 964*367*970
-
-Hermoso e Inmenso departamento AT: 500M2 / Área Const de: 235 m2  en venta ubicado..."
-188000.0,"San Juan De Miraflores, Lima",160m2,2,1,"Atrás
-
-
-Casa · 160m² · 8 Dormitorios
-Venta S/ 718,200 · USD 189,000
-Calle José Diaz, San Juan de Miraflores, San Juan de ..."
-55000.0,"Ancon, Lima",160m2,8,5,"AT                     :160m
-AC                    :60 m
-Frente              :8 m
-Dormitorios     :2
-Baño                ..."
-354000.0,"Pueblo Libre, Lima",300m2,3,3,Casa amplia en primer piso con 142 metros de área construida y con UN departamento con acceso independiente en el segundo...
-795000.0,"El Sol De La Molina, Lima",600m2,6,3,"LINDA CASA EN SOL DE LA MOLINA, 1ERA ETAPA, RODEADA DE JARDINES, SÚPER ILUMINADA, 3 DORMITORIOS, SALA, COMEDOR, SALA TV, ..."
-,"Calle Arias Araguez 601-699, Cuadra 6, Ur. San Antonio, Miraflores, Lima, 15047, Per",368m2,7,4,"Contacto: Mariella Ames –  9*9*7*5*2*0*7*6*2
-
-Comprar una casa en Miraflores es mucho más que una inversión; es un valiente..."
-1290000.0,"Calle Valle Riestra, San Isidro, Perú",507m2,5,5,"VENDO CASA COMO TERRENO, CUENTA CON LICENCIA DE DEMOLICIÓN, LOS PARÁMETROS SON PARA 3 PISOS PERO POR COLINDANCIA SE PUEDE..."
-890000.0,"Aurelio Fernandez Concha, Miraflores, Perú",497m2,12,6,"VENDO BELLA CASA EN URB. EL ROSEDAL - MIRAFLORES
-
-Ubicación: AURELIO FERNANDEZ CONCHA - CERCA A LA AV. BENAVIDES , IGLESIA..."
-250000.0,"Cerezos 229, Micaela Bastidas, Los Olivos, Lima Province, Perú",160m2,4,4,"Casa amplia con 4 departamentos de 2 dormitorios cada uno. Genera renta de 2000 dólares mensuales.
-Primer piso: Casa amplia..."
-,"Calle Pedro Canga, San Isidro, Perú",550m2,3,3,"550 m2Terreno - 550 m2Construída
-
-- Características:
-Hall
-2 salas
-Comedor
-Comedor de diario
-Cocina cerrada
-Lavandería
-Estar..."
-640000.0,"El Paraiso, La Molina, Perú",512m2,6,3,"VENTA LINDA CASA EN CONDOMINIO - CON PISCINA Y HERMOSO JARDIN EN EL SOL DE LA MOLINA
-
-Ubicación: Calle El Paraíso - cerca..."
-370000.0,"Maranga, Lima",160m2,,,"160 metros cuadrados de terreno, 250 metros en área construida, amplia sala comedor, cocina con comedor de diario, garage..."
-2000000.0,"Los Sauces, Santiago De Surco, Perú","1,000m2",4,5,"Arquitecto Richard Malachowsky, Diseño moderno, ambientes amplios, muy iluminada, todos los ambientes dan a los jardines,..."
-1950000.0,"Calle Los Pinos, San Isidro, Perú",400m2,5,5,"CASA ESTILO MARIO LARA DE TRES PLANTAS, MUY LUMINOSA TECHOS ALTOS, DOBLE SALA, COMEDOR SEPARADO, AMPLIA COCINA CON TABLEROS..."
-650000.0,"León De La Fuente, Magdalena Del Mar, Perú",305m2,2,2,"VENDO CASA EN CALLE LEON DE LA FUENTE CDRA. 2 - MAGDALENA DEL MAR- LIMITE SAN ISIDRO 
-PRECIO DE VENTA US$650,000.- 
-A.T. ..."
-2900000.0,"Jirón Batalla De Junin 300, Barranco, Perú",951m2,8,9,"Calle JUNIN, BARRANCO
-Ref: ALTURA DEL MALECÓN PAZOS Y A 2 CUADRAS DEL PUENTE DE LOS SUSPIROS
-$ 2900,000
-A.T. : 951.00 m2,..."
-396000.0,"Avenida Manuel Olguín, Surco, Perú",220m2,4,3,"VENDO LINDA CASA EN CONDOMINIO PRIVADO EN MANUEL OLGUIN - MONTERRICO - DISTRITO DE SANTIAGO DE SURCO 
-AT. 120 m2. AC. 220..."
-720000.0,"Geronimo De Aliaga Norte, Surco, Perú",362m2,6,5,"CASA / TERRENO en VENTA en SANTIAGO DE SURCO
-Jirón GERONIMO DE ALIAGA NORTE
-Urb. VALLE HERMOSO ESTE
-Ref: A TRES CUADRAS DE..."
-495000.0,"Av. Ayacucho 1429, Santiago De Surco, Perú",300m2,4,4,"- VENTA DE CASA EN AV. AYACUCHO, A DOS CUADRAS DE AV. BENAVIDES, SANTIAGO DE SURCO.
-
-- 4 DORMITORIOS.
-
-- EL PRINCIPAL CON..."
-1290000.0,"Av. Gral. Francisco Valle Riestra 595, San Isidro 15076, Perú",507m2,5,4,"Zona alredor del colegio León Pinelo, Pezet, etc.
-Sin Muebles, 42 años de antigüedad, Vista a la Calle, ideal para proyecto..."
-620000.0,"Av. Pedro De Osma, Barranco, Perú",247m2,3,3,"EXCELENTE CASA MUY BIEN CONSERVADA, 25 MTS DE FRENTE, CON PISOS DE PIEDRA Y MUCHA MADERA, ARQUITECTURA MUY CÁLIDA, TODO MIRANDO..."
-315000.0,"Ricardo Palma, Urb Covima, La Molina, Perú",352m2,3,2,"CONTACTO: Mariella Ames - 9*9*7*5*2*0*7*6*2*
-
-La casa se encuentra ubicada en Jr. Ricardo Palma, paralela a la Av. Flora ..."
-650000.0,"Calle Eduardo H. La Torre Villamonte 205, Urb El Rosal, Lima, Perú",344m2,4,4,"CASA en VENTA en MIRAFLORES
-Calle EDUARDO DE LA TORRE VILLAMONTE N°205, Urb. EL ROSAL
-Ref: ESPALDA IGLESIA SANTA RITA DE ..."
-168500.0,"Villa El Salvador, Lima",335m2,6,4,"Vive cerca al Óvalo Chama, cerca a mercados, Mega Plaza Villa el Salvador.
-
-📍 Ubicada en Villa El Salvador, a dos cuadras..."
-,"Tambo Viejo, Cieneguilla, Perú","1,740m2",4,3,"Linda casa en venta ubicada en una de las zonas mas exclusivas de Cieneguilla
-
-Características Generales
-
-Precio : US$ 475,000..."
-,"La Planicie, Lima",298m2,5,5,¡Un oasis de tranquilidad en La Planicie! - Disfruta de la tranquilidad y seguridad que ofrece esta casa ubicada en una urbanización...
-600000.0,"Jirón Daniel Carrión 585, Magdalena Del Mar, Perú",359.46m2,3,3,"PRECIO DE VENTA US$ 600,000
-
-Se vende casa de 359.46M2
-Antigüedad 73 años
-440M2 construidos
-
-1er piso 	Sala, comedor, bar..."
-600000.0,"Rinconada Baja, Lima",240m2,5,6,"Casa Amplia, de 240 metros de terreno y adicionalmente tiene en posesión documentada 80 metros cuadrados de jardín interior..."
-123000.0,"Playa La Encontrada, Asia, Perú",100m2,3,1,"La casa se encuentra ubicada en el primer nivel dentro de un condominio.
-
-Es de un nivel, con vista directa al mar. 
-110 ..."
-,"San Martin De Porres, Lima",240m2,4,3,"“Linda Casa en Zona Residencial del Callao con 4 Dormitorios, 3 Baños y Amplias Características Internas y Externas”
-
-Linda..."
-499000.0,"Jirón Bartolomé De Las Casas 400-488, Cuadra 4, Ur. Pablo Canepa, La Molina, Lima, 15012, Per",219m2,7,6,"🔥🔥🔥VENTA DE CASA CON PISCINA EN SANTA PATRICIA ERA. ETAPA - LA MOLINA
-✅Altura cuadra 65 de la Av. Javier Prado Este.  
-..."
-,"Pasaje Los Lirios 192, Lurigancho-chosica, Perú",504.75m2,5,3,"Se trata de una vivienda con vista exterior, consta de una edificación de 2 pisos el cual cuenta con un ingreso peatonal ..."
-449500.0,"Club De Regatas ""lima"" · Filial La Cantuta, Circunvalacion, Lurigancho-chosica, Perú","1,000m2",4,3,"CASA EN VENTA EN LA CANTUTA - CHOSICA - COSTADO CLUB REGATAS DE LA CANTUTA   - AV. CIRCUNVALACION  155 
-PRECIO DE VENTA :..."
-730000.0,"Via Láctea 205, Santiago De Surco 15023, Perú",425m2,5,6,"Hermosa casa dentro de condominio privado, cuenta con Hall de ingreso, sala y comedor con linda vista al jardín, sala de ..."
-560000.0,"Batallon Tarma Surco, Lima, Perú",168m2,3,4,"VENDO HERMOSA CASA EN CONDOMIO , BATALLON TARMA , SURCO, 
-PRIMERA PLANTA, HALL DE ENTRADA, BAÑO DE VISITA , SALA , COMEDOR..."
-,"Tambo Viejo, Cieneguilla, Perú","2,500m2",5,4,"Linda casa en venta ubicada en una de las zonas mas exclusivas de Cieneguilla
-
-Características Generales
-
-Precio : US$ 580,000..."
-1500000.0,"Jirón Los Alamos 381, Lima, Perú","1,250m2",4,4,"LINDA CASA CON ESTILO SEMI-RÚSTICO, CON PERSONALIDAD PROPIA, RODEADA DE LINDO JARDIN, TERRAZAS, BBQ Y PISCINA. 
-TIENE DOS..."
-145000.0,"Villa El Salvador, Lima",100m2,5,3,"Venta de Casa en Avenida Comercial en Villa El Salvador
-
-Casa Comercial de 3 pisos
-Area Terreno 100m2
-Area Construida 280m2..."
-178000.0,"Av. Alejandro Iglesias 725, Chorrillos, Perú",160m2,7,3,CASA DE DOS PLANTAS - OPORTUNIDAD DE NEGOCIO E INVERSION - SE ACEPTAN OFERTAS.
-,"Purus 170, Rímac, Perú",800m2,4,5,"VENDO CASA QUINTA DESOCUPADA IDEAL PARA PROYECTO INMOBILIARIO - FRENTE AL PARQUE DE LAS AGUAS, COSTADO DE ANTIGUA CERVECERÍA..."
-195000.0,"Avenida Virgen Del Carmen, Ur. Pro Etapa Vii, San Martín De Porres, Lima, 15113, Per",230m2,,,"Entérate más: 9.9.8.1.1.9.2----
-
-Super conservada e impecable casa de 3 pisos, en plena avenida, 2 cocheras, terraza, con..."
-3800000.0,"El Cascajal, Jirón El Cascajal, Surco, Perú","1,200m2",,,"ESPECTACULAR RESIDENCIA IDEAL EMBAJADORES O PERSONAS DE PRIMER NIVEL, DOBLE SALA CON CHIMENEA, COMEDOR SEPARADO, COCINA GRANDE..."
-,"Villa El Salvador, Lima",140m2,8,5,"Venta de Casa, 8 Dormitorios en Villa El Salvador
-
-Se vende Casa de 3 pisos con 8 dormitorios en buen estado de conservación..."
-1350000.0,"La Planicie, Lima, Perú","1,700m2",4,2,"VENDO HERMOSA CASA EN LA PLANICIE , JIRON EL GOLF, AREA DE 1,700 MTS2, CON 4 DORMITORIOS , EL PRINCIPAL CON WALKING CLOSET..."
-650000.0,"San Antonio, Lima",505m2,4,3,"La Casa tiene 2 plantas, usada y construida hace 41 años. El estado actual del inmueble es: Por Remodelar. Su uso puede ser..."
-2300000.0,"El Olivar Desarrolladora, Raymundo Morales De La Torre, San Isidro, Lima, Peru",310m2,4,6,"Realmente una joya! Casa diseñada por el destacado arquitecto Mario Lara, en ""L"" emplazada en el bosque El Olivar, rodeada..."
-560000.0,"Jirón Juan De La Torre 200-222, Cuadra 2, Ur. Valle Hermoso Este, Santiago De Surco, Lima, 15023, Per",183m2,5,4,"Ubicada en el corazón de Monterrico, a 1 cuadra de dos parques, a 4 cuadras de la Av. Primavera, a 3 cuadras de la Av. EL..."
-300000.0,"Jirón Viña Lariena 200, Santiago De Surco, Perú",602m2,4,4,"CASA EN VENTA EN URB. SAGITARIO, SANTIAGO DE SURCO
-En venta inmueble de 3 niveles, con cimientos para construir un cuarto..."
-1150000.0,"Calle Los Manzanos 315, San Isidro, Perú",628m2,4,4,"CASA EN VENTA EN LOS MANZANOS 315, SAN ISIDRO
-
- 
-
-Ref: CERCA DE LA CLINICA EL GOLF.
-
-AT 332 m2, AC, 602 m2., 
-
-
-
-2 pisos,..."
-900000.0,"Jirón Batallón Callao Norte, Cercado De Lima, Perú",367m2,3,3,Acogedora casa en venta en estilo clásico diseñada por el arquitecto Juan Carlos Domenack. Se entra a la casa por una entrada...
-750000.0,"Santa Cruz, Lima",383m2,4,4,"Esa preciosa casa de tres pisos es una joya, a unos pasos del Malecón en calle tranquila en Miraflores. Se entra por un recibo..."
-670000.0,"Conde De La Vega Del Ren, Lima, Perú",318m2,3,3,Bienvenido a la exclusividad y el lujo en el corazón del distinguido barrio de Chacarilla. Presentamos este impresionante...
-950000.0,"Avenida Los Frutales, La Molina, Perú",300m2,3,3,"Casa con 32 años de antigüedad, zona comercial, por remodelar, lindero fdo. = 21.00 mts., lindero fte. = 20.30 mts., zonificación..."
-135000.0,"Av. Bolívar, Cieneguilla, Perú",410m2,4,4,"𝘾𝙄𝙀𝙉𝙀𝙂𝙐𝙄𝙇𝙇𝘼 -𝙑𝙀𝙉𝙏𝘼 𝘾𝘼𝙎𝘼 𝘿𝙀 𝟯𝟬𝟬 𝙈² 𝘾𝙊𝙈𝙊 𝙏𝙀𝙍𝙍𝙀𝙉𝙊 
-
-✅Se vende Casa como terreno, cuenta..."
-449000.0,"Playa Las Lomas, Cerro Azul, Perú","1,650m2",5,4,Casi de ESTRENO!!! LA MEJOR VISTA AL MAR DESDE ESTA CASA QUE PARECE ITALIANA!!! . Preciosa casa de playa amoblada en venta...
-1697000.0,"El Horizonte 366, La Molina, Perú",180m2,4,3,"CASA VIVIENDA EN BUEN ESTADO DE CONSERVACION A PRECIO DE CAMPAÑA $ 1,200,00 UBICADO EN ZONA RESIDENCIAL 
-
-VALOR COMERCIAL..."
-900000.0,"Calle El Montículo 100-198, Cuadra 1, Ur. La Planicie, La Molina, Lima, 15026, Per",230m2,3,3,"CASA EN CONDOMINIO EN VENTA EN  LA MOLINA
-Calle EL MONTICULO N° 146, casa 229, 
-Urb. LA PLANICIE
-Referencia: Altura cuadra..."
-120000.0,"Calle Antonia De Castro 131, Carabayllo, Perú",153m2,3,2,"Predio de 2 pisos, 3er. piso construido en parte, de material noble con aires disponibles para seguir construyendo.
-Terreno..."
-180.0,"Tercera Etapa, Cieneguilla, Perú",630m2,3,4,"𝑬𝑵 𝑽𝑬𝑵𝑻𝑨 ""𝑪𝑨𝑺𝑨 𝑫𝑬 𝑬𝑺𝑻𝑹𝑬𝑵𝑶 230𝑴²- 𝑪𝑰𝑬𝑵𝑬𝑮𝑼𝑰𝑳𝑳𝑨/ 𝑻𝑬𝑹𝑪𝑬𝑹𝑨 𝑬𝑻𝑨𝑷𝑨
-
-                             ..."
-650000.0,"Ca. John Hassinger, Cercado De Lima, Perú",261m2,6,5,"Casa de 3 plantas , con parametros para  3 pisos, 2 salas . comedor, comewdor de diario,cocina, escalera , sala de estar,..."
-1180000.0,"Av. Manuel Villarán 184, Lima, Perú",700m2,6,4,"SE VENDE CASA/TERRENO IDEAL PARA REMODELAR O PARA PROYECTO 
-Valor Comercial $ 1.180,000 => ¡PRECIO NEGOCIABLE! 
-
-- Área de..."
-330000.0,"Angélica Palma 184, San Miguel, Perú",600m2,6,3,"CASA AMPLIA 200 mt2
-CONSTRUCCION DE
-CONCRETO CON 42 AÑOS DE
-ANTIGUEDAD
-
-Área construida( 261mt)
-Sistema de electricidad trifasica..."
-1190000.0,"El Monticulo, La Molina, Perú",300m2,3,5,Bienvenido a la exclusiva experiencia de vida en La Planicie. Esta impresionante casa en condominio redefine la elegancia...
-1850000.0,"Calle Arica, Miraflores, Perú",540m2,4,4,"Calle ARICA
-Amoblado y equipado, 6 años de antigüedad, vista a la calle, remodelada, dos plantas.
-Hall de ingreso, 2 salas..."
-660000.0,"Santiago De Surco, Lima",252m2,4,4,"🚩 Ocasión, confortable casa en venta de 3 pisos ubicado en una buena zona de Monterrico - Surco 🚩
-
-🫶 Comodidades para ..."
-1389000.0,"Calle Jose Granda, San Isidro, Perú",315m2,4,5,"LISTA PARA MUDARSE! Preciosa casa en venta en San Isidro con vista a árboles y verde, desde prácticamente todas las áreas..."
-,"Pasaje Osa Menor, Ur. La Alborada, Santiago De Surco, Lima, 15038, Per",70m2,4,5,"CASA EN VENTA EN SURCO - FRENTE A PARQUE.
-CERCA A LA AV. CAMINOS DEL INCA CON AV. HIGUERETA.
-
-AT: 252m2 
-AC: 320m2 
-PRECIO..."
-580000.0,"Jirón Los Cipreses 401-489, Cuadra 4, Ur. Sirius (miguel Grau), La Molina, Lima, 15024, Per","1,663m2",4,6,"Venta de exclusiva Casa frente al parque en Los cipreses, La Molina.
-
-Características Generales
-Precio : $US 580,000 Dólares..."
-,"Villa El Salvador, Lima",275m2,2,3,"Venta de Casa en Avenida Comercial en Villa El Salvador
-
-Casa como terreno, área 70m2, tiene 2 Dormitorios, Sala, Comedor..."
-890000.0,"Urb Rinconada Alta Etapa 2, La Molina, Perú","1,198m2",4,6,"42 años de antigüedad, vista interior, en proyecto, zonificación residencial, una planta, parámetros para 2 pisos vencen ..."
-475000.0,"Calle Juan José Calle 465, Lima, Perú",NA,5,,"Casa en venta en urbanización la Aurora en Miraflores.
-5 habitaciones 
-3 baños
-Área se servicio
-Cochera 2 carros
-Terraza
-..."
-3112840.0,"Jiron Cerro San Francisco 522 Las Casuarinas Surco, Jirón Cerro San Francisco, Santiago De Surco, Perú",NA,6,,"ESPECTACULAR Casa en venta en Condominio Privado en Casuarinas SURCO, con control de seguridad en Garita a la entrada del..."
+Precio,Ubicacion,Área (m^2),Dormitorios,Baños
+112000.0,"Unidad Vecinal Del Rimac, Lima, Perú",48.0,4,2
+5255733.0,"Villa Club 2, Carabayllo, Perú",76.0,3,2
+4447159.0,"Alameda De San Juan, Carabayllo, Perú",56.0,2,1
+5120971.0,"San Pedro, Carabayllo, Perú",90.0,4,2
+550000.0,"Bahia, Pueblo Libre, Perú",295.0,4,2
+850000.0,"San Borja, Lima",429.0,5,3
+,"Playa Las Totoritas, Cañete, Lima, Perú",250.0,4,5
+,"Mala, Cañete",200.0,7,7
+340000.0,"Avenida Metropolitana & Avenida Prolongación Javier Prado Este, Ate, Perú",156.0,5,5
+699000.0,"Santiago De Surco, Lima",400.0,5,5
+658000.0,"Rinconada Baja, Lima",300.0,4,5
+790000.0,"La Molina, Lima",461.0,4,4
+387188.0,"La Calera De La Merced, Surquillo, Perú",178.0,5,3
+750000.0,"La Molina, Lima",700.0,3,4
+250000.0,"Punta Corrientes, Cerro Azul, Perú",220.0,4,5
+247000.0,"Punta Corrientes, Cerro Azul, Perú",220.0,4,5
+225000.0,"Punta Corrientes, Cerro Azul, Perú",220.0,4,5
+1353450.0,"Jirón Paseo De Los Eucaliptos 460, La Molina, Perú",1.0,5,3
+390000.0,"Jirón Aragón 178, Pueblo Libre, Perú",223.0,5,3
+490000.0,"Daniel Urrea 251, Chorrillos, Lima 15063, Perú",240.0,4,3
+1250000.0,"La Planicie, La Molina, Perú",1.0,4,8
+1000000.0,"Calle Baltazar La Torre 3, San Isidro, Perú",365.0,5,4
+1220000.0,"La Planicie, La Molina, Perú",1.0,4,4
+940000.0,"Cerros De Camacho, Santiago De Surco, Lima, Lima, Peru",563.0,5,6
+570000.0,"Calle Bahía 200-298, Cuadra 2, Co. La Molina Real, La Molina, Lima, 15026, Per",300.0,4,5
+399000.0,"Lomas De La Molina Vieja, Lima, Perú",280.0,4,6
+405000.0,"San Borja, Lima",178.0,4,2
+680000.0,"Jirón Coronel Enrique Campos, Surco, Perú",300.0,3,4
+1047000.0,"Rinconada Baja, Lima",1.0,3,4
+2100000.0,"Rinconada Alta, La Molina, Perú",2.0,4,7
+980000.0,"Las Lagunas, La Molina, Perú",461.0,4,4
+253000.0,"Santa Cruz De Flores, Cañete, Lima, Per",679.0,4,4
+3600000.0,"La Planicie, 1a Etapa, 12, La Molina, Lima, Lima, Peru",3.0,5,5
+410000.0,"Calle Campo Verde 101-199, Cuadra 1, Ur. Campo Verde, La Molina, Lima, 15026, Per",202.0,3,4
+615000.0,"José María Quiroga 339, Santiago De Surco, Perú",316.0,4,3
+2100000.0,"Rinconada Alta, La Molina, Perú",2.0,4,7
+720000.0,"Calle Las Dalias 338-368, Cuadra 3, Ur. Valle Hermoso Residencial Etapa Ii, Santiago De Surco, Lima, 15023, Per",600.0,3,4
+1700000.0,"La Planicie, La Molina, Perú",1.0,5,8
+595000.0,"El Sol De La Molina, Lima",1.0,3,3
+600000.0,"Jirón El Mástil 515-577, Cuadra 5, Ur. Las Lagunas De La Molina Etapa Iii, La Molina, Lima, 15026, Per",290.0,5,7
+799000.0,"Valle Hermoso, Santiago De Surco, Perú",595.0,4,4
+1200000.0,"La Molina, Lima",1.0,7,6
+2100000.0,"Rinconada Alta, La Molina, Perú",2.0,5,6
+425000.0,"Urb Paso Chico, Paseo Paso Chico, Lurín, Perú",1.0,7,7
+625000.0,"Ricardo Angulo, San Isidro, Lima, Lima, Peru",360.0,3,3
+800000.0,"Avenida San Borja Norte 1234, Lima, Perú",480.0,4,3
+389000.0,"Calle Pastor Sevilla, Chorrillos, Perú",281.0,5,6
+579800.0,"Avenida Las Casuarinas, Santiago De Surco, Perú",342.0,3,3
+253900.0,"Santa Cruz De Flores, Cañete, Lima, Per",679.0,4,4
+850000.0,"Calle General Silva 685, Cuadra 6, Ur. San Antonio, Miraflores, Lima, 15047, Per",481.0,6,3
+97000.0,"Santa María, Huaura, Lima, Per",136.0,3,2
+399500.0,"La Floristería, Jirón Simón Salguero, Ur. Residencial El Rosal, Santiago De Surco, Lima, 15048, Per",202.0,4,3
+630000.0,"Las Caobas, La Molina, Perú",332.0,4,5
+439000.0,"Jirón Eduardo Lizarzaburu, San Borja, Perú",212.0,6,3
+399000.0,"Camino Del Bosque, La Molina, Perú",280.0,4,4
+475000.0,"Av. Rinconada Del Lago 915, La Molina, Perú",398.0,3,2
+370000.0,"Monte Álamo 255, Surco, Perú",200.0,4,3
+415000.0,"Calle Castilla La Vieja, Surco, Perú",271.0,4,3
+1400000.0,"La Molina, Lima",1.0,3,5
+540000.0,"Viña Del Mar 131, Perú",592.0,4,3
+590000.0,"Cercado De Lima, Lima",380.0,4,4
+645000.0,"Maranga, San Miguel, Perú",240.0,8,4
+420000.0,"Calle German Schreiber, Avenida Dos De Mayo, San Isidro, Perú",269.0,3,2
+260000.0,"Calle German Schreiber Gulsmanco 210, Calle German Schreiber Gulsmanco, San Isidro, Perú",140.0,3,2
+549000.0,"Jirón Cayaltí 241-279, Cuadra 2, Ur. Centro Comercial De Monterrico, Santiago De Surco, Lima, 15023, Per",409.0,5,5
+560000.0,"Carlos Monge Medrano, Santiago De Surco, Perú",280.0,3,4
+520000.0,"Juan De La Fuente 905, Lima, Perú",303.0,7,5
+1260000.0,"Mala, Cañete, Lima, Per",70.0,1,1
+750000.0,"Alameda Manuel Prado Ugarteche 400-478, Cuadra 4, Ot. Universidad Nacional Agraria, La Molina, Lima, 15024, Per",492.0,4,3
+695000.0,"Rio De Janeiro 200, La Molina, Perú",340.0,3,5
+325000.0,"Alberto Bartón, Santa Catalina, Lima, Perú",160.0,4,3
+330000.0,"Pando, Lima",240.0,3,2
+360000.0,"La Encantada 130, Rinconada Del Lago, La Molina, Perú",253.0,3,4
+435000.0,"Pando, Lima",258.0,5,3
+675000.0,"Las Fresas, Lima 15048, Perú",360.0,5,5
+850000.0,"La Molina, Perú",618.0,7,6
+580000.0,"Calle Neiser Llacsa Arce, Lima, Perú",360.0,3,3
+700000.0,"Naplo, Pucusana, Perú",1.0,3,2
+350000.0,"Pasaje Santa Rosa 865 Chaclacayo, Los Pinos, Los Halcones, Chaclacayo, Perú",300.0,4,4
+1270000.0,"Orrantia, Lima",345.0,3,2
+590000.0,"Avenida Paseo La Castellana 356, Santiago De Surco, Perú",327.0,4,5
+930000.0,"Calle Los Libertadores, San Isidro, Perú",300.0,3,3
+950000.0,"Pucusana, Perú",30.0,5,3
+1050000.0,"Orrantia, Lima",378.0,3,2
+750000.0,"Av. Andrés Aramburú, San Isidro, Perú",360.0,4,3
+465000.0,"Calle Pulla De Raymondi, Lima, Perú",312.0,5,3
+500000.0,"Urb California, Perú",1.0,4,4
+890000.0,"El Haras 5, La Molina, Perú",600.0,7,5
+2500000.0,"Av. Pedro De Osma 417, Barranco, Perú",847.0,3,3
+475000.0,"Chorrillos, Lima",300.0,,
+1480000.0,"Avenida Juan De Aliaga 400, Magdalena Del Mar, Perú",423.0,3,2
+1820000.0,"Pachacamac, Lima",4.0,8,8
+825000.0,"Sevilla 115, Miraflores, Perú",267.0,3,3
+320000.0,"Magdalena Del Mar, Lima",70.0,3,2
+540000.0,"Ivan Huerta, Cercado De Lima, Perú",200.0,4,5
+190000.0,"Surquillo, Lima",110.0,3,1
+2000000.0,"Jirón Los Molles 267, Santiago De Surco, Perú",1.0,5,10
+690000.0,"Jirón Madreselva, Surco, Perú",415.0,4,4
+1290000.0,"Av. Belén, San Isidro, Perú",498.0,5,4
+618000.0,"Chorrillos, Lima",1.0,3,3
+470000.0,"Santiago De Surco, Lima",292.0,5,5
+215000.0,"Cloegio Pamer, Avenida Los Alameda Horizontes 710, Cuadra 7, Ur. Los Cedros De Villa Etapa Iv, Chorrillos, Lima, 15067, Per",236.0,5,4
+1200000.0,"La Molina Vieja, La Molina, Perú",1.0,4,6
+399000.0,"Rinconada Baja, Lima",160.0,5,6
+915000.0,"Avenida Manuel Prado Ugarteche, La Molina, Perú",540.0,4,5
+2500000.0,"Los Canarios, La Pradera, Lima, Perú",1.0,4,4
+230000.0,"Jirón Maximiliano Carranza 856-898, Cuadra 8, Ur. San Juan Sector D, San Juan De Miraflores, Lima, 15801, Per",225.0,6,2
+500000.0,"Surco, Perú",500.0,4,5
+440000.0,"Alameda El Triangulo, Urb Las Brisas De Villa, Lima, Perú",600.0,6,3
+600000.0,"Calle Arias Araguez 601-699, Cuadra 6, Ur. San Antonio, Miraflores, Lima, 15047, Per",368.0,4,2
+240000.0,"San Martin De Porres, Lima",111.0,8,3
+188000.0,"San Juan De Miraflores, Lima",160.0,8,5
+354000.0,"Pueblo Libre, Lima",300.0,2,1
+55000.0,"Ancon, Lima",160.0,3,3
+795000.0,"El Sol De La Molina, Lima",600.0,5,4
+286900.0,"Alameda Domingo Tristán Y Moscoso 520, Santiago De Surco, Perú",360.0,7,4
+1290000.0,"Calle Valle Riestra, San Isidro, Perú",507.0,8,9
+2900000.0,"Jirón Batalla De Junin 300, Barranco, Perú",951.0,12,6
+250000.0,"Cerezos 229, Micaela Bastidas, Los Olivos, Lima Province, Perú",160.0,6,5
+720000.0,"Geronimo De Aliaga Norte, Surco, Perú",362.0,,
+315000.0,"Ricardo Palma, Urb Covima, La Molina, Perú",352.0,3,2
+890000.0,"Aurelio Fernandez Concha, Miraflores, Perú",497.0,5,5
+370000.0,"Maranga, Lima",160.0,6,3
+1700000.0,"Calle Pedro Canga, San Isidro, Perú",550.0,4,4
+650000.0,"Calle Eduardo H. La Torre Villamonte 205, Urb El Rosal, Lima, Perú",344.0,4,4
+640000.0,"El Paraiso, La Molina, Perú",512.0,3,3
+650000.0,"León De La Fuente, Magdalena Del Mar, Perú",305.0,2,2
+396000.0,"Avenida Manuel Olguín, Surco, Perú",220.0,4,3
+2000000.0,"Los Sauces, Santiago De Surco, Perú",1.0,4,5
+495000.0,"Av. Ayacucho 1429, Santiago De Surco, Perú",300.0,4,4
+1950000.0,"Calle Los Pinos, San Isidro, Perú",400.0,5,5
+898000.0,"Jirón Los Alamos 183, Lima, Perú",376.0,4,4
+675000.0,"La Planicie, Lima",298.0,5,5
+998000.0,"Calle General La Fuente 165, San Isidro, Perú",391.0,3,4
+1290000.0,"Av. Gral. Francisco Valle Riestra 595, San Isidro 15076, Perú",507.0,5,4
+198000.0,"San Martin De Porres, Lima",240.0,4,3
+168500.0,"Villa El Salvador, Lima",335.0,6,4
+620000.0,"Av. Pedro De Osma, Barranco, Perú",247.0,3,3
+600000.0,"Jirón Daniel Carrión 585, Magdalena Del Mar, Perú",359.0,3,3
+600000.0,"Rinconada Baja, Lima",240.0,5,6
+499000.0,"Jirón Bartolomé De Las Casas 400-488, Cuadra 4, Ur. Pablo Canepa, La Molina, Lima, 15012, Per",219.0,7,6
+449500.0,"Club De Regatas ""lima"" · Filial La Cantuta, Circunvalacion, Lurigancho-chosica, Perú",1.0,4,3
+123000.0,"Playa La Encontrada, Asia, Perú",100.0,3,1
+265000.0,"Pasaje Los Lirios 192, Lurigancho-chosica, Perú",504.0,5,3
+195000.0,"Avenida Virgen Del Carmen, Ur. Pro Etapa Vii, San Martín De Porres, Lima, 15113, Per",230.0,7,3
+178000.0,"Av. Alejandro Iglesias 725, Chorrillos, Perú",160.0,5,6
+,"Purus 170, Rímac, Perú",800.0,3,4
+730000.0,"Via Láctea 205, Santiago De Surco 15023, Perú",425.0,4,3
+560000.0,"Batallon Tarma Surco, Lima, Perú",168.0,,
+475000.0,"Tambo Viejo, Cieneguilla, Perú",1.0,,
+3800000.0,"El Cascajal, Jirón El Cascajal, Surco, Perú",1.0,4,5
+560000.0,"Jirón Juan De La Torre 200-222, Cuadra 2, Ur. Valle Hermoso Este, Santiago De Surco, Lima, 15023, Per",310.0,5,6
+580000.0,"Tambo Viejo, Cieneguilla, Perú",2.0,5,4
+2300000.0,"El Olivar Desarrolladora, Raymundo Morales De La Torre, San Isidro, Lima, Peru",505.0,4,3
+1350000.0,"La Planicie, Lima, Perú",1.0,4,5
+1150000.0,"Calle Los Manzanos 315, San Isidro, Perú",602.0,4,4
+135000.0,"Av. Bolívar, Cieneguilla, Perú",300.0,4,3
+800000.0,"La Planicie, Lima",461.0,4,4
+650000.0,"San Antonio, Lima",628.0,4,2
+900000.0,"Jirón Batallón Callao Norte, Cercado De Lima, Perú",367.0,3,4
+750000.0,"Santa Cruz, Lima",383.0,4,3
+670000.0,"Conde De La Vega Del Ren, Lima, Perú",230.0,3,4
+180.0,"Tercera Etapa, Cieneguilla, Perú",1.0,3,2
+1697000.0,"El Horizonte 366, La Molina, Perú",318.0,4,4
+950000.0,"Avenida Los Frutales, La Molina, Perú",410.0,3,3
+449000.0,"Playa Las Lomas, Cerro Azul, Perú",630.0,5,4
+1180000.0,"Av. Manuel Villarán 184, Lima, Perú",183.0,6,5
+300000.0,"Jirón Viña Lariena 200, Santiago De Surco, Perú",700.0,4,4
+900000.0,"Calle El Montículo 100-198, Cuadra 1, Ur. La Planicie, La Molina, Lima, 15026, Per",306.0,3,3
+1190000.0,"El Monticulo, La Molina, Perú",153.0,3,3
+524000.0,"Calle General La Fuente 165, San Isidro, Perú",540.0,4,3
+650000.0,"Ca. John Hassinger, Cercado De Lima, Perú",140.0,6,4
+1389000.0,"Calle Jose Granda, San Isidro, Perú",1.0,4,4
+350000.0,"Las Palmas, Asia, Perú",600.0,4,3
+890000.0,"Urb Rinconada Alta Etapa 2, La Molina, Perú",300.0,4,6
+1850000.0,"Calle Arica, Miraflores, Perú",240.0,4,5
+417000.0,"Jr. Hawai 1, La Molina, Perú",261.0,3,4
+270000.0,"C. Jr. Pumacahua Brigadier, Jesús María, Perú",310.0,5,3
+330000.0,"Angélica Palma 184, San Miguel, Perú",0.0,6,4
+490000.0,"La Chalana, La Molina, Perú",0.0,3,4
